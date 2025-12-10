@@ -1,0 +1,11 @@
+<map edf:definitions="editor_main">
+    <ped id="ped (1)" interior="0" rotZ="0.003" dimension="0" model="0" health="100" armor="0" collisions="true" alpha="255" frozen="false" posX="2290.5" posY="-1671.1" posZ="14.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" interior="0" rotZ="220.002" dimension="0" model="0" health="100" armor="0" collisions="true" alpha="255" frozen="false" posX="2351" posY="-1713.4" posZ="13.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" interior="0" rotZ="180" dimension="0" model="0" health="100" armor="0" collisions="true" alpha="255" frozen="false" posX="2093.6001" posY="-1709.7" posZ="13.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" interior="0" rotZ="50.002" dimension="0" model="0" health="100" armor="0" collisions="true" alpha="255" frozen="false" posX="1808" posY="-1864.2" posZ="13.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (5)" interior="0" rotZ="180" dimension="0" model="0" health="100" armor="0" collisions="true" alpha="255" frozen="false" posX="1966.9004" posY="-1452.5" posZ="13.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (6)" interior="0" rotZ="180" dimension="0" model="0" health="100" armor="0" collisions="true" alpha="255" frozen="false" posX="2354.8999" posY="-1470.9" posZ="24" rotX="0" rotY="0"></ped>
+    <ped id="ped (7)" interior="0" rotZ="250" dimension="0" model="0" health="100" armor="0" collisions="true" alpha="255" frozen="false" posX="1979.3" posY="-1203.5" posZ="25.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (8)" interior="0" rotZ="306.004" dimension="0" model="0" health="100" armor="0" collisions="true" alpha="255" frozen="false" posX="2210.4004" posY="-1138.2998" posZ="25.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (9)" interior="0" rotZ="180" dimension="0" model="0" health="100" armor="0" collisions="true" alpha="255" frozen="false" posX="2835.8999" posY="-1645.4" posZ="10.9" rotX="0" rotY="0"></ped>
+</map>

@@ -1,0 +1,9 @@
+<meta>
+    <script src="Weapons_Factory.lua" type="server" />
+    <script src="Weapons_FactoryC.lua" type="client" />
+    <script src="Armory.lua" type="server" />
+    <script src="ArmoryC.lua" type="client" />
+    <export function="UpgradeArmory" type="server"/>
+    <min_mta_version client="1.5.8-9.20844"></min_mta_version>
+</meta>
+

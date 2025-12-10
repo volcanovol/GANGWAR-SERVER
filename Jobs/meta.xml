@@ -1,0 +1,23 @@
+<meta>
+    <script src="Jobs.lua" type="server" />
+    <script src="Jobs_C.lua" type="client"/>
+
+    <map src="Pizza_Job/Pizza_Job.map" dimension="0"></map>
+    <script src="Pizza_Job/Pizza_Job.lua" type="server" />
+    <script src="Pizza_Job/Pizza_Job_C.lua" type="client"/>
+
+    <map src="Street_Cleaner/Street_Cleaner.map" dimension="0"></map>
+    <script src="Street_Cleaner/Street_Cleaner.lua" type="server" />
+    <script src="Street_Cleaner/Street_Cleaner_C.lua" type="client"/>
+
+    <map src="Dustman_Job/Dustman_Job.map" dimension="0"></map>
+    <script src="Dustman_Job/Dustman_Job.lua" type="server" />
+    <script src="Dustman_Job/Dustman_Job_C.lua" type="client"/>
+
+    <map src="Towtruck_Job/Towtruck_Job.map" dimension="0"></map>
+    <script src="Towtruck_Job/Towtruck_Job.lua" type="server" />
+    <script src="Towtruck_Job/Towtruck_Job_C.lua" type="client"/>
+
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

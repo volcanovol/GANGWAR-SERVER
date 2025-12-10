@@ -1,0 +1,23 @@
+<map edf:definitions="editor_main">
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1720.7" posY="-1732.4" posZ="12.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1689.7" posY="-1599.9" posZ="12.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1427.6" posY="-1625.5" posZ="12.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1421.6" posY="-1431.2" posZ="12.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1350.3" posY="-1398.6" posZ="12.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1371.7" posY="-1140" posZ="22.77" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2111.6001" posY="-1774.1" posZ="12.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1638.3" posY="-1148.3" posZ="23" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1963.8" posY="-1764.8" posZ="12.44" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1853.8" posY="-1460" posZ="12.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2078.5" posY="-1930.2" posZ="12.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2344.2" posY="-1725.9" posZ="12.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2201.8999" posY="-1638.9" posZ="14.33" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1263.1" posY="-1826.5" posZ="12.44" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1859.2" posY="-1183" posZ="22.77" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1586.1" posY="-1297" posZ="16.44" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1038.6" posY="-1707.5" posZ="12.44" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1067.6" posY="-1821.2" posZ="12.77" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="918.79999" posY="-1750" posZ="12.44" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1789.4" posY="-1910.5" posZ="12.44" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Street_Cleaner" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1959.1" posY="-2171.8" posZ="12.44" rotX="0" rotY="0" rotZ="0"></marker>
+</map>

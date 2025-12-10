@@ -1,0 +1,14 @@
+<meta>
+    <script src="Police.lua" type="server" />
+    <script src="PoliceC.lua" type="client" />
+    <script src="Weapons.lua" type="server" />
+    <script src="Prison.lua" type="server" />
+    <script src="PrisonC.lua" type="client" />
+    <script src="Vehicle.lua" type="server" />
+    <script src="VehicleC.lua" type="client" />
+    <script src="Wanted_RadarC.lua" type="client" />
+    <file src="PrisonDoor.mp3" /> 
+    <map src="Map_Prison/Prison.map" dimension="0"></map>
+    <script src="Map_Prison/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="Map_Prison/mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

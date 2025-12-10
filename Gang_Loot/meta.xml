@@ -1,0 +1,9 @@
+<meta>
+    <script src="Gang_loot.lua" type="server" />
+    <script src="Gang_Stolen_Trucks.lua" type="server" />
+
+    <map src="Gang_loot.map" dimension="0"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <min_mta_version client="1.5.8-9.20844"></min_mta_version>
+</meta>

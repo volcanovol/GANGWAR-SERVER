@@ -1,0 +1,22 @@
+<map edf:definitions="editor_main">
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2015.1" posY="-1629.8" posZ="12.55" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1734.1" posY="-2101.3999" posZ="12.55" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1871.2" posY="-1916" posZ="14" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1893.5" posY="-2020.4" posZ="12.55" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2193.1001" posY="-1455.9" posZ="24.55" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2092" posY="-1166.4" posZ="25.66" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1739.3" posY="-1583.5" posZ="13.44" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1154" posY="-1771.3" posZ="15.66" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="893.5" posY="-1638.3" posZ="13.88" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="653.29999" posY="-1714.2" posZ="13.88" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="206.8" posY="-1770.4" posZ="3.33" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="487.30002" posY="-1640.1" posZ="22.77" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="916" posY="-1252.3" posZ="14.66" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1182.8" posY="-1075" posZ="30.77" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2483.3999" posY="-1996.5" posZ="12.88" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2672.7" posY="-1990.8101" posZ="13" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2808" posY="-1189.2" posZ="24.55" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2385.3999" posY="-1328.4" posZ="23.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2754.8999" posY="-1302.6" posZ="52.1" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Pizza_House" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2326.8" posY="-1718.8" posZ="12.55" rotX="0" rotY="0" rotZ="0"></marker>
+</map>

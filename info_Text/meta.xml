@@ -1,0 +1,13 @@
+<meta>
+    <script src="info_Server.lua" type="server" />  
+    <script src="info.lua" type="client" />  
+    <file src="black.png" />
+    <file src="GTA3Mission.mp3" />
+    <file src="GTAVicMission.mp3" />
+    <export function="InfoText" type="client"/>
+    <export function="TutoText" type="client"/>
+    <export function="MissionText" type="client"/>
+    <export function="InfoText" type="server"/>
+    <export function="TutoText" type="server"/>
+    <export function="MissionText" type="server"/>
+</meta>

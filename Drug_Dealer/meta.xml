@@ -1,0 +1,8 @@
+<meta> 
+    <script src="Drug_Dealer.lua" type="server" />
+    <script src="Drug_Dealer_C.lua" type="client"/>
+    <min_mta_version server="1.5.8-9.20957"></min_mta_version>
+    <map src="Drug_Dealer.map" dimension="20"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta> 
