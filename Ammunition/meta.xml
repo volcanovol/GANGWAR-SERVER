@@ -1,0 +1,5 @@
+<meta>
+    <script src="Ammu.lua" type="server" />
+    <script src="AmmuC.lua" type="client" />
+    <file src="black.png" />
+</meta>

@@ -1,0 +1,10 @@
+<meta>
+    <script src="Deathmatch.lua" type="server" />
+    <script src="DeathmatchC.lua" type="client" />
+
+    <map src="Deathmatch_1.map" dimension="20"></map>
+    <map src="Deathmatch_2.map" dimension="20"></map>
+
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

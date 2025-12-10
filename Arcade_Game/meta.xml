@@ -1,0 +1,44 @@
+<meta>
+    <script src="Arcade_Game.lua" type="server" />
+    <script src="Spaceship/Spaceship.lua" type="server" />
+    <script src="Spaceship/SpaceshipC.lua" type="client" />
+
+    <file src="Spaceship/Screen_Spaceship.png" />
+
+    <file src="Spaceship/gfx/logo.png" />
+    <file src="Spaceship/gfx/Spaceship01.png" />
+
+    <file src="Spaceship/gfx/Boster01.png" />
+    <file src="Spaceship/gfx/Boster02.png" />
+
+    <file src="Spaceship/gfx/Enemy01.png" />
+    <file src="Spaceship/gfx/Enemy02.png" />
+    <file src="Spaceship/gfx/Enemy03.png" />
+
+    <file src="Spaceship/gfx/EnemyB01.png" />
+    <file src="Spaceship/gfx/EnemyB02.png" />
+    <file src="Spaceship/gfx/EnemyB03.png" />
+
+    <file src="Spaceship/gfx/Explosion01.png" />
+    <file src="Spaceship/gfx/Explosion02.png" />
+    <file src="Spaceship/gfx/Explosion03.png" />
+
+    <file src="Spaceship/gfx/paw01.png" />
+    <file src="Spaceship/gfx/paw02.png" />
+
+    <file src="Spaceship/gfx/Shot0A.png" />
+
+    <file src="Spaceship/gfx/Shot01.png" />
+    <file src="Spaceship/gfx/Shot02.png" />
+
+    <file src="Spaceship/sound/explosion.mp3" />
+    <file src="Spaceship/sound/explosion2.mp3" />
+    <file src="Spaceship/sound/hitHurt.mp3" />
+    <file src="Spaceship/sound/laserShoot.mp3" />
+    <file src="Spaceship/sound/laserShoot2.mp3" />
+   <file src="Spaceship/sound/powerUp.mp3" />
+    <file src="Spaceship/sound/Theme.mp3" />
+    <file src="Spaceship/sound/GAME_OVER.mp3" />
+    <file src="Spaceship/sound/EnemyB.mp3" />
+    <file src="Spaceship/sound/Start.mp3" />
+</meta>

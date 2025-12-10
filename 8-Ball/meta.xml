@@ -1,0 +1,7 @@
+<meta> 
+    <script src="8-Ball.lua" type="server" />
+    <script src="8-Ball_C.lua" type="client"/>
+    <file src="8-Ball.txd" /> 
+    <file src="8-Ball.dff" /> 
+    <file src="radar_bomb.png" /> 
+</meta> 
