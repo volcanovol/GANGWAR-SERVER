@@ -1,0 +1,7 @@
+<meta>
+    <map src="VendingM.map" dimension="0"></map>
+    <script src="VendingM.lua" type="server" />
+    <script src="VendingM_C.lua" type="client" />
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

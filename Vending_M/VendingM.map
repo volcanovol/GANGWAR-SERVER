@@ -1,0 +1,23 @@
+<map edf:definitions="editor_main">
+    <marker id="marker (cylinder) (1)" type="cylinder" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2352.6001" posY="-1357.2" posZ="24.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (2)" type="cylinder" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2326" posY="-1645.6" posZ="14.8" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (1)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="388.89999" posY="-2072.3999" posZ="7.8" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (4)" type="cylinder" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2060.1001" posY="-1898.1" posZ="13.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (5)" type="cylinder" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="1729.8" posY="-1943.5" posZ="13.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (2)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="1000.3" posY="-1849.8" posZ="12.8" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (3)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="1589.7" posY="-1288" posZ="17.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <object id="object (chillidogcart) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1340" scale="1" doublesided="false" collisions="true" frozen="false" posX="2143.3999" posY="-1157.6" posZ="24.1" rotX="0" rotY="0" rotZ="0"></object>
+    <marker id="marker (corona) (4)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2227.3999" posY="-1741.6" posZ="13.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <object id="object (CJ_EXT_SPRUNK) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="955" scale="1" doublesided="false" collisions="true" frozen="false" posX="2106.3999" posY="-1790.5" posZ="12.95" rotX="0" rotY="0" rotZ="180"></object>
+    <marker id="marker (cylinder) (3)" type="cylinder" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2106.3701" posY="-1790" posZ="13.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <object id="object (chillidogcart) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1340" scale="1" doublesided="false" collisions="true" frozen="false" posX="2227.4004" posY="-1742.2998" posZ="13.7" rotX="0" rotY="0" rotZ="90"></object>
+    <marker id="marker (corona) (5)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2144.1001" posY="-1157.5" posZ="24" rotX="0" rotY="0" rotZ="0"></marker>
+    <object id="object (CJ_EXT_SPRUNK) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="955" scale="1" doublesided="false" collisions="true" frozen="false" posX="1345.4" posY="-1759" posZ="12.9" rotX="0" rotY="0" rotZ="180"></object>
+    <marker id="marker (cylinder) (6)" type="cylinder" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="1345.4" posY="-1758.5" posZ="13.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (7)" type="cylinder" color="#0000FFFF" size="1" interior="2" dimension="0" alpha="255" posX="2576.3" posY="-1284.5" posZ="1061" rotX="0" rotY="0" rotZ="0"></marker>
+    <object id="object (CJ_EXT_SPRUNK) (3)" breakable="true" interior="2" alpha="255" dimension="-1" model="955" scale="1" doublesided="false" collisions="true" frozen="false" posX="2552.3" posY="-1290.9" posZ="1054.05" rotX="0" rotY="0" rotZ="0"></object>
+    <marker id="marker (cylinder) (8)" type="cylinder" color="#0000FFFF" size="1" interior="2" dimension="0" alpha="255" posX="2552.3506" posY="-1291.4004" posZ="1054.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <object id="object (CJ_EXT_SPRUNK) (4)" breakable="true" interior="2" alpha="255" dimension="-1" model="955" scale="1" doublesided="false" collisions="true" frozen="false" posX="2530.2" posY="-1298.5" posZ="1030.85" rotX="0" rotY="0" rotZ="90"></object>
+    <marker id="marker (cylinder) (9)" type="cylinder" color="#0000FFFF" size="1" interior="2" dimension="0" alpha="255" posX="2530.6001" posY="-1298.5" posZ="1031.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (1)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1929.2" posY="-1772.45" posZ="13.5" rotX="0" rotY="0" rotZ="0"></marker>
+</map>

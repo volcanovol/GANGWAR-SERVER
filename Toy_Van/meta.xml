@@ -1,0 +1,4 @@
+<meta> 
+    <script src="Toy_Van.lua" type="server"/>
+    <script src="Toy_VanC.lua" type="client"/>
+</meta> 
